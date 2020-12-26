@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<books>
+    <book type="Computer">
+        <title>PHP Web Services</title>
+    <author><name>Sami</name></author></book>
+</books>
